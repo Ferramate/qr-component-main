@@ -22,7 +22,7 @@ body {
     justify-content: center;
     flex-basis: 22em;
     border-radius: 1em;
-    box-shadow: 0 0 20px hsl(0, 0%, 86%);
+    box-shadow: 0 30px 20px hsl(212, 34%, 85%);
     text-align: center;
 }
 
