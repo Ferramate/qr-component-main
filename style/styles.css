@@ -10,7 +10,7 @@ body {
 .container {
     display: flex;
     justify-content: center;
-    padding-top: 11em;
+    padding-top: 12em;
 }
 
 .qr-container {
